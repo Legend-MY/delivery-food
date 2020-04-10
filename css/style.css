@@ -559,6 +559,16 @@ body{
 	.footer-link:not(:last-child){
 		margin-right: 0;
 	}
+	.modal-dialog{
+		padding: 25px 35px;
+	}
+	.modal-header{
+		margin-bottom: 30px;
+	}
+	.modal-title{
+		font-size: 32px;
+		line-height: 38px;
+	}
 	.modal-body{
 		margin-bottom: 25px;
 	}
@@ -567,9 +577,19 @@ body{
 	}
 	.modal-pricetag{
 		margin-bottom: 10px;
+		font-size: 18px;
 	}
 	.footer-buttons{
 		width: 100%;
 		justify-content: space-between;
+	}
+		.food-name{
+			font-size: 16px;
+			line-height: 28px;
+	}
+
+	.food-price{
+		font-size: 18px;
+		line-height: 30px;
 	}
 }
