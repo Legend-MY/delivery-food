@@ -516,6 +516,15 @@ body{
 	.social-links{
 		order: 2;
 	}
+	.modal .button{
+	font-size: 14px;
+	line-height: 18px;
+	}
+	.modal-pricetag{
+		padding: 10px 15px;
+		font-size: 18px;
+		line-height: 21px;
+	}
 }
 
 @media (max-width: 480px) {
