@@ -559,4 +559,17 @@ body{
 	.footer-link:not(:last-child){
 		margin-right: 0;
 	}
+	.modal-body{
+		margin-bottom: 25px;
+	}
+	.modal-footer{
+		flex-wrap: wrap;
+	}
+	.modal-pricetag{
+		margin-bottom: 10px;
+	}
+	.footer-buttons{
+		width: 100%;
+		justify-content: space-between;
+	}
 }
