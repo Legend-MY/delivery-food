@@ -516,36 +516,6 @@ body{
 	.social-links{
 		order: 2;
 	}
-	.modal-dialog{
-		padding: 25px 35px;
-	}
-	.modal-header{
-		margin-bottom: 30px;
-	}
-	.modal-title{
-		font-size: 32px;
-		line-height: 38px;
-	}
-	.modal-body{
-		margin-bottom: 25px;
-	}
-	.modal .button{
-	font-size: 14px;
-	line-height: 18px;
-	}
-	.modal-pricetag{
-		padding: 10px 15px;
-		font-size: 18px;
-		line-height: 21px;
-	}
-	.food-name{
-			font-size: 16px;
-			line-height: 28px;
-	}
-	.food-price{
-		font-size: 18px;
-		line-height: 30px;
-	}
 }
 
 @media (max-width: 480px) {
@@ -590,5 +560,35 @@ body{
 	.footer-buttons{
 		width: 100%;
 		justify-content: space-between;
+	}
+	.modal-dialog{
+		padding: 25px 35px;
+	}
+	.modal-header{
+		margin-bottom: 30px;
+	}
+	.modal-title{
+		font-size: 32px;
+		line-height: 38px;
+	}
+	.modal-body{
+		margin-bottom: 25px;
+	}
+	.food-name{
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.food-price{
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.modal-pricetag{
+		padding: 10px 15px;
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.modal .button{
+		font-size: 14px;
+		line-height: 18px;
 	}
 }
